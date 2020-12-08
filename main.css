@@ -12,7 +12,11 @@ h1 {
 
 h2 {
     text-align: left;
+	width: 65%;
+   margin: auto auto;
 }
 h3{
-    text-align: left;
+    text-align: center;
+	width: 65%;
+   margin: auto auto;
 }
